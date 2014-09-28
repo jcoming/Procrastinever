@@ -1,6 +1,6 @@
 {
-  "name": "mean",
-  "description": "MEAN.io: A fullstack JavaScript framework powered by MongoDB, ExpressJS, AngularJS, NodeJS.",
+  "name": "ProcrastiNever",
+  "description": "Productivity powered by MongoDB, ExpressJS, AngularJS, NodeJS.",
   "version": "0.4.0",
   "private": false,
   "author": "Linnovate <mean@linnovate.net>",
@@ -23,7 +23,7 @@
   "mean": "0.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": "https://github.com/jcoming/ProcrastiNever.git"
   },
   "engines": {
     "node": "0.10.x",
